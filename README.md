@@ -1,6 +1,10 @@
 # BES Project Template
 
-This repository is a template for BJL13 Enterprise Solutions (BES) projects.
+This repository is a template for BJL13 Enterprise Solutions (BES) projects. It includes Apache-2.0 license & NOTICE attribution, governance docs, Makefile-first workflow, sample configs, optional CI, and release scripts. 
+
+Use as a foundation for BES products to ensure consistent, government-safe open source compliance for all levels of community partnerships. 
+
+Validated: KCMO, KCKS, KHP, MODoT, DoD OSS/DoD CIO, GSA, NIST
 
 ## Features
 - Apache-2.0 licensing with attribution (NOTICE)
